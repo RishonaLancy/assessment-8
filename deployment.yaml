@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: notice-board
-        image: rishonalancy/notice-board:latest
+        image: rishonalancy/assessment-8:latest
         ports:
         - containerPort: 80
 ---
